@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding-top: 10px;
+}
+body{
+    background-color: rgb(202, 114, 62);
+    width: 95vw;
+    justify-self: center;    
+}
+
+header h1{
+    text-align: center;
+}
+
+a {
+  border: 3px solid rgba(100, 100, 100, 1);
+  border-radius: 4px;
+  background-color: rgba(27, 120, 179, 0.84);
+  color: rgba(252, 252, 252, 1);
+  transition: box-shadow 300ms ease-out;
+  padding-left: 5px;
+}
+
+a :hover {
+  box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 0.3);
+}
+
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+.banner{
+    position: relative;
+    width: 95vw;
+    justify-self: center;    
+}
+.sub{
+    width: 100%;
+    background-color: burlywood;
+    height: 30px;
+    text-align: center;
+}
+nav{
+    position: absolute;
+    right: -5px;
+    top: -5px;
+
+}
+
+main{
+    display: inline-block;
+}
+
+.logo, .info, .img1{
+    display: inline-block;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.actual{
+    background-color: rgb(84, 168, 45);;
+}
+.info2{
+
+}
