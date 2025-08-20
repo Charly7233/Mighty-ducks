@@ -1,0 +1,17 @@
+.sub_rules{
+    text-align: center;
+    padding-top: 15px;
+}
+.sub_main_r{
+    background-color: bisque;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.lista3{
+    list-style: lower-alpha;
+}
+ol, ul{
+    padding-left: 30px;
+}
