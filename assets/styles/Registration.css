@@ -1,0 +1,65 @@
+.layout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+main{
+    background-color: bisque;
+}
+.Pinfo{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 7px;
+}
+.genero{
+    display: flex;
+    flex-direction: column;
+    padding: 0 10px;
+    gap: 7px;
+}
+.grade{
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    padding: 10px;
+}
+.school{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    padding: 0 10px;
+}
+.position{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    padding: 0 10px;
+}
+.uniform{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    padding: 0 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.permition{
+    padding-top: 10px;
+    gap: 10px;
+}
+.button{
+    width: 70px;
+    height: 40px;
+    background-color: crimson;
+}
